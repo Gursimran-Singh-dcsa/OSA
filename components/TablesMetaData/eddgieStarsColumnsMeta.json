@@ -1,0 +1,32 @@
+[
+    {
+      "key": "1",
+      "title": "sales Rep",
+      "dataIndex": "salesRepName",
+      "width": "10%"
+    },
+    {
+      "key": "2",
+      "title": "Region",
+      "dataIndex": "region",
+      "width": "10%"
+    },
+    {
+      "key": "3",
+      "title": "Last CS",
+      "dataIndex": "lastCS",
+      "width": "10%"
+    },
+    {
+      "key": "4",
+      "title": "Achieved CS",
+      "dataIndex": "achievedCS",
+      "width": "10%"
+    },
+    {
+      "key": "5",
+      "title": "change in CS",
+      "dataIndex": "changeInCS",
+      "width": "10%"
+    }
+]
